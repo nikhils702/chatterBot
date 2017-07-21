@@ -90,4 +90,4 @@ chatbot.train("chatterbot.corpus.english")
 
 # Examples
 
-For examples, see the [examples] at: https://github.com/nikhils702/hackathon-chatterbot
+For examples, see the [examples] at: https://github.com/nikhils702/chatterBot
